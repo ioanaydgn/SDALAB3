@@ -1,0 +1,12 @@
+11
+Regina Maria, RO, NavaCroaziera, 1500
+Carpati, RO, Cargo, 10000
+Dunarea, BG, Feribot, 100, 20
+Insula Misterioasa, RO, Feribot, 300, 75
+Iasi, RO, NavaCroaziera, 2500
+Apuseni, RO, Cargo, 20000
+Plevna, BG, Cargo, 10020
+Botosani, RO, NavaCroaziera, 500
+Navodari, RO, Feribot, 300, 75
+Constanta, RO, NavaCroaziera, 2500
+Ultima limita, RO, Cargo, 50000
